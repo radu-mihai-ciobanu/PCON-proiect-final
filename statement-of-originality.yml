@@ -18,14 +18,14 @@ collaboration:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
+  - comment:openweather-apis
+    url:https://www.npmjs.com/package/openweather-apis
+    licence:MIT
 
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
 assets:
-  - comment: ceva
-    url: ceva.com
-    licence: MIT
+  - comment:
+    url:
+    licence: 
