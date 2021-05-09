@@ -17,7 +17,7 @@
       - parametrii meteo vor fi cititi pentru locatia respectiva la fiecare secunda;
       - dupa 50 secunde, procesul se reia cu o noua valoare de latitudine
       
-(3.06) Valorile temperaturii (sau temperatura resimtita, sau diferenta dintre ele) si viteza vantului vor fi date de intrare intr-un sintetizator (posibil, el lucrat la teme, dar modificat special pentru acest proiect).
+(3.06) Valorile temperaturii (sau temperatura resimtita, sau diferenta dintre ele) si viteza vantului vor fi date de intrare intr-un sintetizator (posibil, cel lucrat la teme, dar modificat special pentru acest proiect).
       
 
 (X.06) ...
