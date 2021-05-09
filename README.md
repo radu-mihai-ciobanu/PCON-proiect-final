@@ -1,4 +1,4 @@
-# Weather sonic
+# Weather sonics
 (Scurtă descriere)
 
 ## (Instalare)
