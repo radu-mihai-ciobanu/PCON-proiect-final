@@ -13,7 +13,7 @@ declaration: >-
 collaboration:
   - name:
     comment: >-
-      
+
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
@@ -26,6 +26,6 @@ code:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
 assets:
-  - comment:
-    url:
-    licence:
+  - comment: ceva
+    url: ceva.com
+    licence: MIT
