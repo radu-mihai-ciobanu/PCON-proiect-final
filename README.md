@@ -1,4 +1,4 @@
-# (Titlu)
+# Weather sonic
 (Scurtă descriere)
 
 ## (Instalare)
