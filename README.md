@@ -16,6 +16,7 @@
       - cu latitudinea generata, se va genera aleator un meridian, iar acesta va fi incrementat la fiecare 10secunde;
       - parametrii meteo vor fi cititi pentru locatia respectiva la fiecare secunda;
       - dupa 50 secunde, procesul se reia cu o noua valoare de latitudine
+      - Duratele algoritmului le voi mai ajusta functie de testele pe care le voi face. 
       
 (3.06) Valorile temperaturii (sau temperatura resimtita, sau diferenta dintre ele) si viteza vantului vor fi date de intrare intr-un sintetizator (posibil, cel lucrat la teme, dar modificat special pentru acest proiect).
       
