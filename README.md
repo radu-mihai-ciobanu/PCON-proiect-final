@@ -9,7 +9,7 @@
 
 ## (Istoric)
 
-(13.05) afisarea corecta a parametrilor: temperatura, temperatura resimtita, viteza vantului, tara, localitatea
+(13.05) afisarea corecta a parametrilor: temperatura, temperatura resimtita, viteza vantului, tara, localitatea prin introducerea coordonatelor 
 
 (3.06) Generare aleatoare a coordonatelor geografice (aici m-am gandit la un anumit algoritm):
       - genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 50secunde);
