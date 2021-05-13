@@ -1,6 +1,6 @@
 # Weather sonics
 
-Prin intermediul unui patcher Max se preiau pentru o anumita locatie identificata pe baza coordonatelor geografice date ale starii curente a vremii, se afiseaza temperatura, temperatura resimtita, viteza vantului, tara si localitatea, cu precizarea ca pentru ultmii doi parametri atunci cand coordonatele sunt generate aleator este posibil ca acestea sa nu fie indicate (ne putem gasi pe o zona care sa nu apartina nici unei localitati sau tari). Coordonatele pot fi introduse atat manual, dupa ce sunt citite pe o www.google.ro/maps, fie prin intermediul unui algoritm. 
+Prin intermediul unui patcher Max se preiau pentru o anumita locatie - identificata pe baza coordonatelor geografice - date privitoare la starea curenta a vremii, se va afisa temperatura, temperatura resimtita, viteza vantului, tara si localitatea, cu precizarea ca pentru ultimii doi parametri atunci cand coordonatele sunt generate aleator este posibil ca acestea sa nu fie indicate (ne putem gasi pe o zona care sa nu apartina nici unei localitati sau tari). Coordonatele pot fi introduse atat manual, dupa ce sunt citite pe o www.google.ro/maps, fie prin intermediul unui algoritm pe care il voi dezvolta.
 
 
 ## (Istoric)
@@ -8,16 +8,17 @@ Prin intermediul unui patcher Max se preiau pentru o anumita locatie identificat
 (13.05) afisarea corecta a parametrilor: temperatura, temperatura resimtita, viteza vantului, tara, localitatea prin introducerea coordonatelor 
 
 (3.06) Generare aleatoare a coordonatelor geografice (aici m-am gandit la un anumit algoritm):
-      - genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 50secunde);
+      - genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 50secunde): 
       - cu latitudinea generata, se va genera aleator un meridian, iar acesta va fi incrementat la fiecare 10secunde;
       - parametrii meteo vor fi cititi pentru locatia respectiva la fiecare secunda;
       - dupa 50 secunde, procesul se reia cu o noua valoare de latitudine
       - Duratele algoritmului le voi mai ajusta functie de testele pe care le voi face. 
+      - obs: valoarile de 50s si 10s din algoritm reprezinta o prima faza a proiectului.
       
 (3.06) Valorile temperaturii (sau temperatura resimtita, sau diferenta dintre ele) si viteza vantului vor fi date de intrare intr-un sintetizator (posibil, cel lucrat la teme, dar modificat special pentru acest proiect).
       
 
-(X.06) ...
+(X.06) Eventual control de la distanta al algoritmului; modificari finale; modelarea unei intrefete in Presentation Mode.
 
 ## (Link-uri)
 ...
