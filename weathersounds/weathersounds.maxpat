@@ -40,13 +40,67 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-28",
+					"linecount" : 3,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 582.0, 197.0, 150.0, 47.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 166.0, 221.0, 459.0, 20.0 ],
+					"text" : "   Temperatura                          Viteza vantului              Temperatura resimtita"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-22",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 590.0, 107.0, 150.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 359.0, 137.0, 38.0, 20.0 ],
+					"text" : "Tara"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-17",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 813.0, 56.0, 150.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 366.5, 76.5, 43.0, 20.0 ],
+					"text" : "Oras"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-9",
+					"linecount" : 2,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 221.0, 112.0, 150.0, 33.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 296.0, 20.0, 184.0, 20.0 ],
+					"text" : "Latitudine               Longitudine"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-25",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 171.0, 560.3876953125, 50.0, 22.0 ],
-					"text" : "83"
+					"text" : "70"
 				}
 
 			}
@@ -58,7 +112,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 416.0, 419.5, 50.0, 22.0 ],
-					"text" : "55"
+					"text" : "49"
 				}
 
 			}
@@ -177,7 +231,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1107.0, 291.0, 687.0, 387.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 45.0, 264.0, 764.0, 474.0 ],
+					"presentation_rect" : [ 45.0, 299.0, 764.0, 474.0 ],
 					"rendermode" : 0,
 					"url" : "https://www.google.ro/maps"
 				}
@@ -193,7 +247,8 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 660.5, 630.8876953125, 198.0, 31.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 279.0, 74.35578947368424, 212.0, 31.0 ],
+					"presentation_rect" : [ 282.0, 99.35578947368424, 212.0, 31.0 ],
+					"text" : "Azuga",
 					"textjustification" : 1
 				}
 
@@ -262,8 +317,8 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 359.5, 733.0, 74.0, 31.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 329.0, 128.35578947368424, 74.0, 31.0 ],
-					"text" : "CA",
+					"presentation_rect" : [ 337.0, 163.35578947368424, 74.0, 31.0 ],
+					"text" : "RO",
 					"textjustification" : 1
 				}
 
@@ -330,7 +385,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 558.5, 593.0, 46.0, 22.0 ],
-					"text" : "23.7"
+					"text" : "10.27"
 				}
 
 			}
@@ -346,7 +401,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 585.5, 549.3876953125, 104.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 457.5, 183.35578947368424, 104.0, 33.0 ]
+					"presentation_rect" : [ 461.5, 246.35578947368424, 104.0, 33.0 ]
 				}
 
 			}
@@ -416,7 +471,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 511.0, 338.35578947368424, 104.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 319.0, 183.35578947368424, 104.0, 33.0 ]
+					"presentation_rect" : [ 323.0, 246.35578947368424, 104.0, 33.0 ]
 				}
 
 			}
@@ -510,7 +565,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 806.0, 100.5, 67.0, 31.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 399.0, 18.5, 67.0, 31.0 ]
+					"presentation_rect" : [ 402.0, 43.5, 67.0, 31.0 ]
 				}
 
 			}
@@ -526,7 +581,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 727.0, 100.5, 67.0, 31.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 293.0, 18.5, 67.0, 31.0 ]
+					"presentation_rect" : [ 296.0, 43.5, 67.0, 31.0 ]
 				}
 
 			}
@@ -566,7 +621,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 262.0, 344.35578947368424, 104.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 162.0, 183.35578947368424, 104.0, 33.0 ]
+					"presentation_rect" : [ 166.0, 246.35578947368424, 104.0, 33.0 ]
 				}
 
 			}
@@ -702,6 +757,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 1,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 1
 					}
 ,
