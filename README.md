@@ -3,6 +3,8 @@
 Prin intermediul unui patcher Max se preiau pentru o anumita locatie - identificata pe baza coordonatelor geografice - date privitoare la starea curenta a vremii, se va afisa temperatura, temperatura resimtita, viteza vantului, tara si localitatea, cu precizarea ca pentru ultimii doi parametri atunci cand coordonatele sunt generate aleator este posibil ca acestea sa nu fie indicate (ne putem gasi pe o zona care sa nu apartina nici unei localitati sau tari). Coordonatele pot fi introduse atat manual, dupa ce sunt citite pe o www.google.ro/maps, fie prin intermediul unui algoritm pe care il voi dezvolta.
 
 ## (Utilizare)
+Avand in vedere ceea ce am lucrat pana acum, este posibila introducerea in Presentation Mode a unor valori pentru latitudine si longitudine (acestea pot fi obtinute si cu ajutorul www.google.ro/maps ce apare in Presentation. Va vor aparea temperatura, temperatura resimtita, viteza vantului, tara, localitatea.
+
 
 ## (Istoric)
 
