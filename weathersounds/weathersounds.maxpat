@@ -10,9 +10,9 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 91.0, 94.0, 1062.0, 711.0 ],
+		"rect" : [ 34.0, 77.0, 1298.0, 617.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 582.0, 197.0, 150.0, 47.0 ],
+					"patching_rect" : [ 582.0, 197.0, 172.0, 48.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 166.0, 221.0, 459.0, 20.0 ],
 					"text" : "   Temperatura                          Viteza vantului              Temperatura resimtita"
@@ -85,9 +85,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 221.0, 112.0, 150.0, 33.0 ],
+					"patching_rect" : [ 221.0, 112.0, 150.0, 34.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 296.0, 20.0, 184.0, 20.0 ],
+					"presentation_rect" : [ 296.0, 20.0, 188.0, 20.0 ],
 					"text" : "Latitudine               Longitudine"
 				}
 
@@ -100,7 +100,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 171.0, 560.3876953125, 50.0, 22.0 ],
-					"text" : "70"
+					"text" : "80"
 				}
 
 			}
@@ -112,7 +112,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 416.0, 419.5, 50.0, 22.0 ],
-					"text" : "49"
+					"text" : "43"
 				}
 
 			}
@@ -231,7 +231,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1107.0, 291.0, 687.0, 387.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 45.0, 299.0, 764.0, 474.0 ],
+					"presentation_rect" : [ 76.0, 334.0, 717.0, 403.0 ],
 					"rendermode" : 0,
 					"url" : "https://www.google.ro/maps"
 				}
@@ -248,7 +248,7 @@
 					"patching_rect" : [ 660.5, 630.8876953125, 198.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 282.0, 99.35578947368424, 212.0, 31.0 ],
-					"text" : "Azuga",
+					"text" : "Bucharest",
 					"textjustification" : 1
 				}
 
@@ -385,7 +385,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 558.5, 593.0, 46.0, 22.0 ],
-					"text" : "10.27"
+					"text" : "20.53"
 				}
 
 			}
@@ -565,7 +565,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 806.0, 100.5, 67.0, 31.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 402.0, 43.5, 67.0, 31.0 ]
+					"presentation_rect" : [ 402.0, 43.5, 82.0, 31.0 ]
 				}
 
 			}
@@ -757,8 +757,6 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 1,
 						"defer" : 0,
-						"node_bin_path" : "",
-						"npm_bin_path" : "",
 						"watch" : 1
 					}
 ,
@@ -1159,7 +1157,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "weathersounds.js",
-				"bootpath" : "~/Library/Mobile Documents/com~apple~CloudDocs/Max MSP/weathersounds",
+				"bootpath" : "~/OneDrive/Documente/GitHub/PCON-proiect-final/weathersounds",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
