@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 582.0, 197.0, 172.0, 48.0 ],
+					"patching_rect" : [ 28.0, 586.3876953125, 172.0, 48.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 166.0, 221.0, 459.0, 20.0 ],
 					"text" : "   Temperatura                          Viteza vantului              Temperatura resimtita"
@@ -58,7 +58,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 590.0, 107.0, 150.0, 20.0 ],
+					"patching_rect" : [ 28.0, 689.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 359.0, 137.0, 38.0, 20.0 ],
 					"text" : "Tara"
@@ -71,7 +71,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 813.0, 56.0, 150.0, 20.0 ],
+					"patching_rect" : [ 28.0, 724.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 366.5, 76.5, 43.0, 20.0 ],
 					"text" : "Oras"
@@ -85,7 +85,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 221.0, 112.0, 150.0, 34.0 ],
+					"patching_rect" : [ 28.0, 644.0, 150.0, 34.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 296.0, 20.0, 188.0, 20.0 ],
 					"text" : "Latitudine               Longitudine"
@@ -99,8 +99,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 171.0, 560.3876953125, 50.0, 22.0 ],
-					"text" : "80"
+					"patching_rect" : [ 67.0, 522.8876953125, 50.0, 22.0 ],
+					"text" : "70"
 				}
 
 			}
@@ -112,7 +112,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 416.0, 419.5, 50.0, 22.0 ],
-					"text" : "43"
+					"text" : "50"
 				}
 
 			}
@@ -135,7 +135,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 972.0, 86.0, 50.0, 22.0 ],
+					"patching_rect" : [ 923.0, 82.5, 50.0, 22.0 ],
 					"text" : "-23"
 				}
 
@@ -147,7 +147,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 892.0, 86.0, 50.0, 22.0 ],
+					"patching_rect" : [ 839.0, 82.5, 50.0, 22.0 ],
 					"text" : "-46"
 				}
 
@@ -159,7 +159,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 953.0, 15.5, 65.0, 22.0 ],
+					"patching_rect" : [ 750.0, 26.5, 65.0, 22.0 ],
 					"text" : "r longitude"
 				}
 
@@ -171,7 +171,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 850.0, 15.5, 55.0, 22.0 ],
+					"patching_rect" : [ 671.0, 32.5, 55.0, 22.0 ],
 					"text" : "r latitude"
 				}
 
@@ -193,7 +193,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 262.0, 554.8876953125, 64.0, 22.0 ],
+					"patching_rect" : [ 158.0, 517.3876953125, 64.0, 22.0 ],
 					"text" : "s valoare1"
 				}
 
@@ -205,7 +205,7 @@
 					"numinlets" : 6,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 262.0, 511.0, 114.0, 22.0 ],
+					"patching_rect" : [ 158.0, 473.5, 114.0, 22.0 ],
 					"text" : "scale -20 40 36 102"
 				}
 
@@ -248,7 +248,7 @@
 					"patching_rect" : [ 660.5, 630.8876953125, 198.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 282.0, 99.35578947368424, 212.0, 31.0 ],
-					"text" : "Bucharest",
+					"text" : "Vidra",
 					"textjustification" : 1
 				}
 
@@ -315,7 +315,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 359.5, 733.0, 74.0, 31.0 ],
+					"patching_rect" : [ 308.0, 636.0, 74.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 337.0, 163.35578947368424, 74.0, 31.0 ],
 					"text" : "RO",
@@ -330,7 +330,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 414.5, 671.3876953125, 103.0, 22.0 ],
+					"patching_rect" : [ 363.0, 574.3876953125, 103.0, 22.0 ],
 					"text" : "route sys::country"
 				}
 
@@ -343,7 +343,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 298.0, 655.3876953125, 24.0, 24.0 ]
+					"patching_rect" : [ 246.5, 558.3876953125, 24.0, 24.0 ]
 				}
 
 			}
@@ -354,7 +354,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 298.0, 683.3876953125, 93.0, 22.0 ],
+					"patching_rect" : [ 246.5, 586.3876953125, 93.0, 22.0 ],
 					"text" : "get sys::country"
 				}
 
@@ -366,7 +366,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 4,
 					"outlettype" : [ "dictionary", "", "", "" ],
-					"patching_rect" : [ 414.5, 641.3876953125, 50.5, 22.0 ],
+					"patching_rect" : [ 363.0, 544.3876953125, 50.5, 22.0 ],
 					"saved_object_attributes" : 					{
 						"embed" : 0,
 						"parameter_enable" : 0,
@@ -385,7 +385,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 558.5, 593.0, 46.0, 22.0 ],
-					"text" : "20.53"
+					"text" : "11.27"
 				}
 
 			}
@@ -563,7 +563,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 806.0, 100.5, 67.0, 31.0 ],
+					"patching_rect" : [ 750.0, 82.5, 67.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 402.0, 43.5, 82.0, 31.0 ]
 				}
@@ -579,7 +579,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 727.0, 100.5, 67.0, 31.0 ],
+					"patching_rect" : [ 671.0, 82.5, 67.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 296.0, 43.5, 67.0, 31.0 ]
 				}
@@ -592,7 +592,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 671.0, 145.5, 130.0, 22.0 ],
+					"patching_rect" : [ 615.0, 127.5, 154.0, 22.0 ],
 					"text" : "pak setCoords 40. -80."
 				}
 
@@ -604,7 +604,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 451.0, 117.5, 143.0, 22.0 ],
+					"patching_rect" : [ 374.0, 117.5, 143.0, 22.0 ],
 					"text" : "setCoords 46.367 26.887"
 				}
 
@@ -668,7 +668,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 359.0, 82.5, 133.0, 22.0 ],
+					"patching_rect" : [ 282.0, 82.5, 133.0, 22.0 ],
 					"text" : "qmetro 1000 @active 1"
 				}
 
@@ -698,7 +698,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 359.0, 115.5, 70.0, 22.0 ],
+					"patching_rect" : [ 282.0, 115.5, 70.0, 22.0 ],
 					"text" : "getWeather"
 				}
 
@@ -709,7 +709,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 67.0, 245.5, 32.0, 22.0 ],
+					"patching_rect" : [ 76.0, 217.5, 32.0, 22.0 ],
 					"text" : "print"
 				}
 
@@ -721,7 +721,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 178.0, 117.5, 64.0, 22.0 ],
+					"patching_rect" : [ 76.0, 115.5, 64.0, 22.0 ],
 					"text" : "script start"
 				}
 
@@ -757,6 +757,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 1,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 1
 					}
 ,
@@ -768,6 +770,7 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
+					"midpoints" : [ 441.5, 209.5, 652.5, 209.5 ],
 					"source" : [ "obj-1", 1 ]
 				}
 
@@ -783,6 +786,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-5", 0 ],
+					"midpoints" : [ 167.5, 207.0, 85.5, 207.0 ],
 					"order" : 1,
 					"source" : [ "obj-1", 0 ]
 				}
@@ -791,6 +795,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
+					"midpoints" : [ 291.5, 156.5, 167.5, 156.5 ],
 					"source" : [ "obj-11", 0 ]
 				}
 
@@ -864,6 +869,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-61", 1 ],
+					"midpoints" : [ 680.5, 69.75, 879.5, 69.75 ],
 					"order" : 0,
 					"source" : [ "obj-21", 0 ]
 				}
@@ -886,6 +892,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-53", 0 ],
+					"midpoints" : [ 271.5, 454.92789473684212, 167.5, 454.92789473684212 ],
 					"source" : [ "obj-26", 0 ]
 				}
 
@@ -900,7 +907,9 @@
 			}
 , 			{
 				"patchline" : 				{
+					"color" : [ 0.756862745098039, 0.074509803921569, 0.074509803921569, 1.0 ],
 					"destination" : [ "obj-44", 0 ],
+					"midpoints" : [ 211.5, 256.0, 520.5, 256.0 ],
 					"order" : 2,
 					"source" : [ "obj-3", 1 ]
 				}
@@ -918,7 +927,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-67", 0 ],
-					"midpoints" : [ 211.5, 453.94384765625, 424.0, 453.94384765625 ],
+					"midpoints" : [ 211.5, 453.94384765625, 372.5, 453.94384765625 ],
 					"order" : 3,
 					"source" : [ "obj-3", 1 ]
 				}
@@ -957,6 +966,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
+					"midpoints" : [ 85.5, 156.5, 167.5, 156.5 ],
 					"source" : [ "obj-4", 0 ]
 				}
 
@@ -1065,6 +1075,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-63", 1 ],
+					"midpoints" : [ 759.5, 70.0, 963.5, 70.0 ],
 					"order" : 0,
 					"source" : [ "obj-59", 0 ]
 				}
@@ -1073,6 +1084,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
+					"midpoints" : [ 383.5, 158.5, 167.5, 158.5 ],
 					"source" : [ "obj-6", 0 ]
 				}
 
@@ -1150,6 +1162,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
+					"midpoints" : [ 624.5, 157.5, 167.5, 157.5 ],
 					"source" : [ "obj-8", 0 ]
 				}
 
