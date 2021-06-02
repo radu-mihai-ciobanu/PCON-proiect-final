@@ -1,4 +1,4 @@
-# Weather sonics
+# Weather sound
 
 Prin intermediul unui patcher Max se preiau pentru o anumita locatie - identificata pe baza coordonatelor geografice - date privitoare la starea curenta a vremii, se va afisa temperatura, temperatura resimtita, viteza vantului, tara si localitatea, cu precizarea ca pentru ultimii doi parametri atunci cand coordonatele sunt generate aleator este posibil ca acestea sa nu fie indicate (ne putem gasi pe o zona care sa nu apartina nici unei localitati sau tari). Coordonatele pot fi introduse atat manual, dupa ce sunt citite pe o www.google.ro/maps, fie prin intermediul unui algoritm pe care il voi dezvolta.
 
