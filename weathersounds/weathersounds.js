@@ -15,7 +15,7 @@ const weather = require('openweather-apis');
 	// set city by name
 	// weather.setCity(Bucharest);
  	// or set the coordinates (latitude,longitude)
-  var coords = [45.40467656, 25.6648731];
+  var coords = [44.4, 26.11];
   //weather.setCoordinate(coords[0], coords[1]);
 	// // or set city by ID (recommended by OpenWeatherMap)
 	// weather.setCityId(4367872);
