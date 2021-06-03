@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 28.0, 701.0, 150.0, 20.0 ],
+					"patching_rect" : [ 501.0, 508.5, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 463.5, 106.0, 20.0 ],
 					"text" : "Conditii meteo",
@@ -61,7 +61,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 468.0, 521.5, 216.0, 31.0 ],
+					"patching_rect" : [ 468.0, 530.5, 216.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 458.0, 216.0, 31.0 ],
 					"text" : "overcast clouds",
@@ -78,7 +78,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 36.0, 775.0, 173.0, 38.0 ],
+					"patching_rect" : [ 882.0, 654.0, 76.0, 38.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 406.0, 201.85578947368424, 82.0, 38.0 ],
@@ -95,7 +95,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 21.0, 760.0, 173.0, 22.0 ],
+					"patching_rect" : [ 56.0, 98.0, 65.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 406.0, 151.85578947368424, 82.0, 22.0 ],
 					"text" : "OFF",
@@ -1110,7 +1110,7 @@
 					"patching_rect" : [ 1575.16680899999983, 152.166672000000005, 50.0, 24.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 1066.75, 512.5, 73.75, 24.0 ],
-					"text" : "0.1",
+					"text" : "32",
 					"textjustification" : 1
 				}
 
@@ -2360,8 +2360,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 977.75, 713.499999999999886, 112.0, 55.0 ],
-					"text" : ";\rmodamp 0.5;\rmodrate 0.1"
+					"patching_rect" : [ 977.75, 713.499999999999886, 90.0, 55.0 ],
+					"text" : ";\rmodamp 0.5;\rmodrate 32"
 				}
 
 			}
@@ -2704,7 +2704,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 6.0, 714.0, 173.0, 22.0 ],
+					"patching_rect" : [ 389.0, 97.0, 92.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 121.0, 573.35578947368424, 116.0, 22.0 ],
 					"text" : "Bucuresti",
@@ -2773,7 +2773,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 13.0, 686.0, 150.0, 20.0 ],
+					"patching_rect" : [ 430.0, 382.000000000000057, 85.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 412.0, 106.0, 20.0 ],
 					"text" : "Umiditatea",
@@ -2789,10 +2789,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 438.0, 388.0, 73.0, 31.0 ],
+					"patching_rect" : [ 436.0, 406.0, 73.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 406.5, 78.0, 31.0 ],
-					"text" : "72",
+					"text" : "74",
 					"textjustification" : 1
 				}
 
@@ -2805,7 +2805,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 6.0, 745.0, 173.0, 22.0 ],
+					"patching_rect" : [ 51.75, 555.5, 50.5, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 406.0, 91.333344000000011, 82.0, 22.0 ],
 					"text" : "ON",
@@ -2821,7 +2821,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 218.5, 787.0, 172.0, 22.0 ],
+					"patching_rect" : [ 191.0, 515.5, 91.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 322.5, 106.0, 22.0 ],
 					"text" : "Feels like",
@@ -2837,7 +2837,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 203.5, 772.0, 172.0, 22.0 ],
+					"patching_rect" : [ 98.0, 458.35578947368424, 111.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 280.0, 106.0, 22.0 ],
 					"text" : "Viteza vantului",
@@ -2853,7 +2853,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 188.5, 757.0, 172.0, 22.0 ],
+					"patching_rect" : [ 5.0, 399.0, 103.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 238.0, 106.0, 22.0 ],
 					"text" : "Temperatura",
@@ -2868,7 +2868,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 188.5, 701.5, 150.0, 20.0 ],
+					"patching_rect" : [ 355.0, 449.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 366.5, 106.0, 20.0 ],
 					"text" : "Presiunea",
@@ -2884,10 +2884,10 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 205.5, 471.0, 74.0, 31.0 ],
+					"patching_rect" : [ 199.5, 486.0, 74.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 318.0, 78.0, 31.0 ],
-					"text" : "16.09",
+					"text" : "16.24",
 					"textjustification" : 1
 				}
 
@@ -2919,7 +2919,7 @@
 					"patching_rect" : [ 13.0, 425.35578947368424, 78.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 233.5, 78.0, 31.0 ],
-					"text" : "16.5",
+					"text" : "16.59",
 					"textjustification" : 1
 				}
 
@@ -4136,7 +4136,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 89.0, 648.5, 83.0, 22.0 ],
+					"patching_rect" : [ 80.0, 730.0, 83.0, 22.0 ],
 					"text" : "s longitude"
 				}
 
@@ -4147,7 +4147,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 13.0, 648.5, 73.0, 22.0 ],
+					"patching_rect" : [ 4.0, 730.0, 73.0, 22.0 ],
 					"text" : "s latitude"
 				}
 
@@ -4160,7 +4160,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 37.0, 515.5, 46.0, 46.0 ],
+					"patching_rect" : [ 37.0, 508.5, 46.0, 46.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 339.0, 79.333344000000011, 46.0, 46.0 ]
 				}
@@ -4706,7 +4706,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 13.0, 609.0, 95.0, 22.0 ],
+					"patching_rect" : [ 4.0, 690.5, 95.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -4726,7 +4726,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 6.0, 776.5, 169.0, 22.0 ],
+					"patching_rect" : [ 116.75, 515.5, 50.5, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 197.35578947368424, 106.0, 22.0 ],
 					"text" : "Tara",
@@ -4742,7 +4742,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 188.5, 728.3876953125, 168.0, 22.0 ],
+					"patching_rect" : [ 238.5, 382.000000000000057, 168.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 185.5, 112.5, 48.0, 22.0 ],
 					"text" : "Oras",
@@ -4759,7 +4759,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 188.5, 654.0, 173.0, 38.0 ],
+					"patching_rect" : [ 553.0, 9.0, 85.0, 38.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 113.5, 48.0, 184.0, 22.0 ],
 					"text" : "Latitudine           Longitudine"
@@ -4773,7 +4773,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 605.0, 30.5, 65.0, 22.0 ],
+					"patching_rect" : [ 605.0, 49.0, 65.0, 22.0 ],
 					"text" : "r longitude"
 				}
 
@@ -4785,7 +4785,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 526.0, 30.5, 55.0, 22.0 ],
+					"patching_rect" : [ 526.0, 49.0, 55.0, 22.0 ],
 					"text" : "r latitude"
 				}
 
@@ -4797,7 +4797,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 188.5, 547.541687000000024, 173.0, 22.0 ],
+					"patching_rect" : [ 191.0, 720.541687000000024, 173.0, 22.0 ],
 					"text" : "url https://www.google.ro/maps"
 				}
 
@@ -4809,7 +4809,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 188.5, 600.3876953125, 250.0, 40.0 ],
+					"patching_rect" : [ 191.0, 764.3876953125, 250.0, 40.0 ],
 					"rendermode" : 0,
 					"url" : "https://www.google.ro/maps"
 				}
@@ -4823,7 +4823,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 222.5, 388.0, 198.0, 31.0 ],
+					"patching_rect" : [ 223.5, 406.0, 198.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 83.0, 139.35578947368424, 214.5, 31.0 ],
 					"text" : "Bucharest",
@@ -4839,7 +4839,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 120.5, 471.0, 74.0, 31.0 ],
+					"patching_rect" : [ 105.0, 486.0, 74.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 192.85578947368424, 78.0, 31.0 ],
 					"text" : "RO",
@@ -4934,7 +4934,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 282.0, 82.5, 133.0, 22.0 ],
+					"patching_rect" : [ 282.0, 54.5, 133.0, 22.0 ],
 					"text" : "qmetro 1000 @active 1"
 				}
 
@@ -5005,6 +5005,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 1,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 1
 					}
 ,
@@ -5487,7 +5489,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-7", 2 ],
-					"midpoints" : [ 46.5, 584.75, 98.5, 584.75 ],
+					"midpoints" : [ 46.5, 584.75, 89.5, 584.75 ],
 					"order" : 1,
 					"source" : [ "obj-19", 0 ]
 				}
@@ -5496,7 +5498,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-7", 1 ],
-					"midpoints" : [ 46.5, 584.75, 60.5, 584.75 ],
+					"midpoints" : [ 46.5, 584.75, 51.5, 584.75 ],
 					"order" : 2,
 					"source" : [ "obj-19", 0 ]
 				}
@@ -5505,7 +5507,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
-					"midpoints" : [ 46.5, 584.75, 22.5, 584.75 ],
+					"midpoints" : [ 46.5, 584.75, 13.5, 584.75 ],
 					"order" : 3,
 					"source" : [ "obj-19", 0 ]
 				}
@@ -5578,7 +5580,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-26", 1 ],
-					"midpoints" : [ 295.5, 367.17789473684212, 501.5, 367.17789473684212 ],
+					"midpoints" : [ 288.214285714285722, 367.17789473684212, 499.5, 367.17789473684212 ],
 					"source" : [ "obj-37", 6 ]
 				}
 
@@ -5586,7 +5588,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-30", 1 ],
-					"midpoints" : [ 287.0, 366.67789473684212, 519.5, 366.67789473684212 ],
+					"midpoints" : [ 280.928571428571445, 366.67789473684212, 519.5, 366.67789473684212 ],
 					"source" : [ "obj-37", 5 ]
 				}
 
@@ -5602,7 +5604,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-57", 1 ],
-					"midpoints" : [ 253.0, 372.85578947368424, 169.5, 372.85578947368424 ],
+					"midpoints" : [ 251.785714285714278, 372.85578947368424, 169.5, 372.85578947368424 ],
 					"source" : [ "obj-37", 1 ]
 				}
 
@@ -5617,7 +5619,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-69", 1 ],
-					"midpoints" : [ 261.5, 370.67789473684212, 185.0, 370.67789473684212 ],
+					"midpoints" : [ 259.071428571428555, 370.67789473684212, 169.5, 370.67789473684212 ],
 					"source" : [ "obj-37", 2 ]
 				}
 
@@ -5625,7 +5627,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-70", 1 ],
-					"midpoints" : [ 278.5, 367.35578947368424, 411.0, 367.35578947368424 ],
+					"midpoints" : [ 273.642857142857167, 367.35578947368424, 412.0, 367.35578947368424 ],
 					"source" : [ "obj-37", 4 ]
 				}
 
