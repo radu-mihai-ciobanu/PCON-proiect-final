@@ -889,7 +889,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1457.166686999999911, 183.583252000000016, 37.0, 22.0 ],
-					"text" : "44"
+					"text" : "43"
 				}
 
 			}
@@ -2761,7 +2761,7 @@
 					"patching_rect" : [ 438.0, 388.0, 73.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 406.5, 78.0, 31.0 ],
-					"text" : "79",
+					"text" : "78",
 					"textjustification" : 1
 				}
 
@@ -2856,7 +2856,7 @@
 					"patching_rect" : [ 205.5, 471.0, 74.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 318.0, 78.0, 31.0 ],
-					"text" : "14.12",
+					"text" : "14.44",
 					"textjustification" : 1
 				}
 
@@ -2872,7 +2872,7 @@
 					"patching_rect" : [ 101.0, 425.35578947368424, 78.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 275.5, 78.0, 31.0 ],
-					"text" : "0.89",
+					"text" : "0.45",
 					"textjustification" : 1
 				}
 
@@ -2888,7 +2888,7 @@
 					"patching_rect" : [ 13.0, 425.35578947368424, 78.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 233.5, 78.0, 31.0 ],
-					"text" : "14.55",
+					"text" : "14.86",
 					"textjustification" : 1
 				}
 
@@ -3315,7 +3315,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 222.5, 628.5, 50.0, 22.0 ],
-									"text" : "44"
+									"text" : "43"
 								}
 
 							}
@@ -3925,7 +3925,7 @@
 					"patching_rect" : [ 331.0, 471.0, 198.0, 31.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 219.5, 361.0, 78.0, 31.0 ],
-					"text" : "1016",
+					"text" : "1017",
 					"textjustification" : 1
 				}
 
@@ -4597,7 +4597,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 188.5, 565.3876953125, 173.0, 22.0 ],
+					"patching_rect" : [ 188.5, 547.541687000000024, 173.0, 22.0 ],
 					"text" : "url https://www.google.ro/maps"
 				}
 
@@ -4789,7 +4789,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 455.0, 578.5, 400.0, 220.0 ],
+					"patching_rect" : [ 453.0, 600.3876953125, 400.0, 220.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -4805,6 +4805,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 1,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 1
 					}
 ,
@@ -4834,7 +4836,7 @@
 		"lines" : [ 			{
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
-					"midpoints" : [ 441.5, 385.75, 464.5, 385.75 ],
+					"midpoints" : [ 441.5, 385.75, 462.5, 385.75 ],
 					"source" : [ "obj-1", 1 ]
 				}
 
@@ -5277,9 +5279,18 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-155", 0 ],
+					"midpoints" : [ 46.5, 584.25, 905.5, 584.25 ],
+					"order" : 0,
+					"source" : [ "obj-19", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-7", 2 ],
 					"midpoints" : [ 46.5, 584.75, 98.5, 584.75 ],
-					"order" : 0,
+					"order" : 1,
 					"source" : [ "obj-19", 0 ]
 				}
 
@@ -5288,7 +5299,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-7", 1 ],
 					"midpoints" : [ 46.5, 584.75, 60.5, 584.75 ],
-					"order" : 1,
+					"order" : 2,
 					"source" : [ "obj-19", 0 ]
 				}
 
@@ -5297,7 +5308,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-7", 0 ],
 					"midpoints" : [ 46.5, 584.75, 22.5, 584.75 ],
-					"order" : 2,
+					"order" : 3,
 					"source" : [ "obj-19", 0 ]
 				}
 
@@ -5840,7 +5851,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "weathersounds.js",
-				"bootpath" : "~/Desktop/Max PCON/weathersounds",
+				"bootpath" : "~/Documents/GitHub/PCON-proiect-final/weathersounds",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
@@ -5865,7 +5876,7 @@
 			}
 , 			{
 				"name" : "syntethiser.maxpat",
-				"bootpath" : "~/Desktop/Max PCON/weathersounds",
+				"bootpath" : "~/Documents/GitHub/PCON-proiect-final/weathersounds",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
