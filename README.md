@@ -34,12 +34,12 @@ Pentru utilizatrea patch-ului - care va porni direct in "Presentation mode" - ex
 (13.05) afisarea corecta a parametrilor: temperatura, temperatura resimtita, viteza vantului, tara, localitatea prin introducerea coordonatelor 
 
 (3.06) Generare aleatoare a coordonatelor geografice (aici m-am gandit la un anumit algoritm):
-      - genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 50secunde): 
-      - cu latitudinea generata, se va genera aleator un meridian, iar acesta va fi incrementat la fiecare 10secunde;
-      - parametrii meteo vor fi cititi pentru locatia respectiva la fiecare secunda;
-      - dupa 50 secunde, procesul se reia cu o noua valoare de latitudine
-      - Duratele algoritmului le voi mai ajusta functie de testele pe care le voi face. 
-      - obs: valoarile de 50s si 10s din algoritm reprezinta o prima faza a proiectului.
+  - genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 20secunde): 
+  - cu latitudinea generata, se va genera aleator un meridian, iar acesta va fi incrementat la fiecare 2secunde;
+  - parametrii meteo vor fi cititi pentru locatia respectiva la fiecare secunda;
+  - dupa 20 secunde, procesul se reia cu o noua valoare de latitudine
+  - Duratele algoritmului le voi mai ajusta functie de testele pe care le voi face. 
+      
       
 (3.06) Valorile temperaturii (sau temperatura resimtita, sau diferenta dintre ele) si viteza vantului vor fi date de intrare intr-un sintetizator (posibil, cel lucrat la teme, dar modificat special pentru acest proiect).
    
