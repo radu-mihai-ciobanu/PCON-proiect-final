@@ -7,7 +7,7 @@ Coordonatele geografice vor fi obtinute pe baza unui algoritm. Aceste coordonate
 Valorile temperaturii si ale vitezei vantului vor fi datele de intrare ale unui sintetizator. Parametrii acestuia - tipul de generator de semnal si frecventa modulatoare - vor varia pe baza de algoritm pentru a crea un mai mare dinamism. 
 
 Algortimul implementat va fi urmatorul: 
-- genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 20sec): 
+- genereaza aleator o latitudine cu valoarea intre -90 si +90 (la fiecare 20sec);
 - simultan cu latitudinea generata, se va genera aleator un meridian, iar apoi acesta va fi incrementat la fiecare 2sec, practic la o valoare a latutudinii vor fi 10 meridiane a caror valoare va fi incrementata cu 1;
 - parametrii meteo vor fi cititi pentru locatia respectiva la fiecare secunda;
 - la fiecare 20sec (odata cu schimbarea latitudinii), se modifica valoarea frecventei modulatoare (care are valori fixe de 2, 4, 8, 16, 32, 64, 128, 256 Hz);
