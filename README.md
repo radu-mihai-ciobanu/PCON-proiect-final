@@ -23,8 +23,8 @@ Pentru utilizatrea patch-ului - care va porni direct in "Presentation mode" - ex
 - un buton de ON, care va porni algoritmul;
 - un buton de OFF, care va opri algoritmul;
 - cu algoritmul oprit se pot face urmatoarele:
-      - apelarea unor preseturi care reprezinta orase, rezultatul fiind afisarea parametrilor meteo mentionati mai sus si pozitia acestuia pe harta;
-      - cu ajutorul mouse-ului se poate alege un punct de pe harta, iar patcher-ul va afisa denumirea localitatii si a tarii (cu exceptia celor mentionate mai sus privitoare la acesti parametri) si datele meteo. 
+   - apelarea unor preseturi care reprezinta orase, rezultatul fiind afisarea parametrilor meteo mentionati mai sus si pozitia acestuia pe harta;
+   - cu ajutorul mouse-ului se poate alege un punct de pe harta, iar patcher-ul va afisa denumirea localitatii si a tarii (cu exceptia celor mentionate mai sus privitoare la acesti parametri) si datele meteo. 
 - pot fi ajustati parametrii sintetizatorului - ADSR, durata notelor MIDI generate de pictslider, volumul. 
 - Parametrii ADSR pot fi resetati la valorile implicite;
 - exista posibilitatea inregistrarii, si apoi a redarii unui fragment de 10 secunde al sintetizatorului.
