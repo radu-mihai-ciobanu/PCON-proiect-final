@@ -22,9 +22,11 @@ Cu ajutorul hartii pot fi obtinute conditiile meteo din orice punct al hartii.
 Pentru utilizatrea patch-ului - care va porni direct in "Presentation mode" - exista urmatoarele:
 - un buton de ON, care va porni algoritmul;
 - un buton de OFF, care va opri algoritmul;
+- un buton "MAP" - care functioneaza cu algoritmul pornit.
 - cu algoritmul oprit se pot face urmatoarele:
    - apelarea unor preseturi care reprezinta orase, rezultatul fiind afisarea parametrilor meteo mentionati mai sus si pozitia acestuia pe harta;
-   - cu ajutorul mouse-ului se poate alege un punct de pe harta, iar patcher-ul va afisa denumirea localitatii si a tarii (cu exceptia celor mentionate mai sus privitoare la acesti parametri) si datele meteo. 
+   - cu ajutorul mouse-ului se poate alege un punct de pe harta, iar patcher-ul va afisa denumirea localitatii si a tarii (cu exceptia celor mentionate mai sus privitoare la acesti parametri) si datele meteo;
+   - se apasa butonul "MAP" ... tinand mouse-ul pe harta apasat si plimbandu-l pe harta, patcher-ul va functiona cu un set de coordonate generate prin plimbarea mouse-lui.
 - pot fi ajustati parametrii sintetizatorului - ADSR, durata notelor MIDI generate de pictslider, volumul. 
 - Parametrii ADSR pot fi resetati la valorile implicite;
 - exista posibilitatea inregistrarii, si apoi a redarii unui fragment de 10 secunde al sintetizatorului.
