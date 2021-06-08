@@ -55,7 +55,7 @@ Pentru utilizatrea patch-ului - care va porni direct in "Presentation mode" - ex
 4. https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started;
 5. https://nodejs.org/en/
 6. https://www.youtube.com/watch?v=Qq4EzgKIzoM
-7. https://www.youtube.com/watch?v=gLb1s87YWHw&list=PLF0Dm1j2ix_w2UG_PI75-C2U_uXfzaz0w&index=29&t=960s;
+7. https://youtu.be/gLb1s87YWHw;
 8. https://cycling74.com/tutorials/page/1;
 
 
