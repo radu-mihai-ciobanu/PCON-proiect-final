@@ -31,6 +31,8 @@ Pentru utilizatrea patch-ului - care va porni direct in "Presentation mode" - ex
 - Parametrii ADSR pot fi resetati la valorile implicite;
 - exista posibilitatea inregistrarii, si apoi a redarii unui fragment de 10 secunde al sintetizatorului.
 
+<img width="1440" alt="Captură de ecran din 2021-06-08 la 22 18 09" src="https://user-images.githubusercontent.com/83891996/121244518-a055c000-c8a7-11eb-932e-13799b66c0ff.png">
+
 ## Istoric
 
 (13.05) afisarea corecta a parametrilor: temperatura, temperatura resimtita, viteza vantului, tara, localitatea prin introducerea coordonatelor 
